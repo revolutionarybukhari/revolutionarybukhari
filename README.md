@@ -4,9 +4,11 @@
 
 ### I am a data science and artifical intelligence enthusiast. Currently I am a studying BS DATA SCIENCE at FAST NUCES.
 - 🔭 I just tried to make a readme file for my github account.
+- ⚡ Founder of Pakistan's 2nd Data Science Society (FDSS).
+- ⚡ RnD intern at AIMS Lab FAST NUCES(Pakistan's leading AI Lab).
 - 🌱 I’m currently learning Machine Learning and advance data science skills.
-- 👯 I’m wanting to create more awesome projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 👯 I’m trying to create more awesome projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects and work on some impactful research.
 - ⚡ Fun fact: I am known as "REVOLUTIONARY BUKHARI".
 <br/>
 <hr/>
