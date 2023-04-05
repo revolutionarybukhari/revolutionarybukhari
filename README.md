@@ -2,13 +2,12 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am a data science and artifical intelligence enthusiast. Currently I am a studying BS DATA SCIENCE at FAST NUCES.
+### I am a full stack data scientist. Currently I am a studying BS Data Science at FAST NUCES.
 - 🔭 I just tried to make a readme file for my github account.
-- ⚡ Founder of Pakistan's 2nd Data Science Society (FDSS).
-- ⚡ RnD intern at AIMS Lab FAST NUCES(Pakistan's leading AI Lab).
-- 🌱 I’m currently learning Machine Learning and advance data science skills.
-- 👯 I’m trying to create more awesome projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects and work on some impactful research.
+- ⚡ Founder of Pakistan's biggest Data Science community (FDSS).
+- ⚡ Published 2x conference papers in the domain of Data Science and AI.
+- 🌱 Currently exploring data mining and generative AI.
+- 🥅 2023 Goals: Contribute more to Open Source projects and work on some impactful research.
 - ⚡ Fun fact: I am known as "REVOLUTIONARY BUKHARI".
 <br/>
 <hr/>
