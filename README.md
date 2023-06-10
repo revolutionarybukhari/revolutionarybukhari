@@ -1,107 +1,69 @@
-### Hi there 👋 I am Syed Husnain Haider Bukhari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
+### Hi, tech explorers! 👋 I'm Syed Husnain Haider Bukhari, the Data Science Maverick! 🚀
+
+![Bukhari](https://i.imgur.com/mVIr207.gif)
+
+🎓 I'm currently making waves in the field of Data Science, while earning my BS from FAST NUCES. My journey has been nothing short of an adventure, and GitHub is my logbook where you can track my progress and milestones.
+
+🌍 My influence extends beyond my coursework. I've established FDSS, the largest Data Science community in Pakistan, where we democratize access to Data Science knowledge and foster innovation. 
+
+📚 Not only am I a practitioner, but I'm also a contributor to academic knowledge in the field. I've published two conference papers related to AI and Data Science, spreading my insights to others and fostering discussion.
+
+🔬 I'm always learning and currently, I'm delving deep into the mysteries of data mining and generative AI. I'm excited about the breakthroughs we're going to witness in 2023.
+
+🏆 People call me "REVOLUTIONARY BUKHARI" because of my groundbreaking approaches and out-of-the-box thinking. My goals for 2023? Contribute more to open-source projects, produce impactful research, and bring more revolutionary ideas to life.
+
 <hr/>
 
-### I am a full stack data scientist. Currently I am a studying BS Data Science at FAST NUCES.
-- 🔭 I just tried to make a readme file for my github account.
-- ⚡ Founder of Pakistan's biggest Data Science community (FDSS).
-- ⚡ Published 2x conference papers in the domain of Data Science and AI.
-- 🌱 Currently exploring data mining and generative AI.
-- 🥅 2023 Goals: Contribute more to Open Source projects and work on some impactful research.
-- ⚡ Fun fact: I am known as "REVOLUTIONARY BUKHARI".
-<br/>
+### 🚀 Tech I'm currently harnessing:
+
+- Machine Learning, Deep Learning, and AI
+- Natural Language Processing (NLP)
+- Predictive Modelling & Analytics
+- Image Processing
+- Data Mining
+- Generative AI
+- Statistical Analysis
+
+### ⚙ Tools I frequently use:
+
+- Python
+- TensorFlow
+- SQL
+- React
+- Flask
+- OpenCV
+- Jupyter
+- R
+- PowerBI
+- Anaconda
+
 <hr/>
 
+### 📞 Let's Connect and Forge the Future Together:
 
-
-### 🧧 Connect with me:
 [<img align="left" alt="HusnainHaiderBukhari | Facebook" width="25px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
 [<img align="left" alt="husnainhaider_ | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
 [<img align="left" alt="HusnainHaiderBukhari | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
 [<img align="left" alt="revolutionarybukhari | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
-<br />
 
-[<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right" src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
 
+### 💾 Some Highlights of My Github Journey:
 
-<hr/>
-
-
-### ⚙ Languages and Tools:
-
-[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-<br/>
-<br/>
-[<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][tensorflow]
-[<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />][mysql]
-[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-<br/>
-<br/>
-[<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][python]
-<br/>
-<br/>
-[<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][flask]
-<br/>
-<br/>
-[<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
-[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
-<br/>
-<br/>
-[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][notepad++]
-
-<br />
-
-[<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
-[<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
-[<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
-
-<br/>
-
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
-
-<hr/>
-
-### 💳 Language Card
-
+🔥 Most used languages:
 <img align="center" alt="Husnain's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionarybukhari&&layout=compact&&theme=tokyonight" />
 
-<br />
+💼 Github Stats:
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=revolutionarybukhari&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 
 <hr/>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=revolutionarybukhari&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
-</details>
 
+In the words of Carl Sagan, "Somewhere, something incredible is waiting to be known." Let's discover it together. Thank you for stopping by, feel free to fork, star, and contribute to my projects. The future of tech starts here, with us!
 
+Syed Husnain Haider Bukhari
 
-
-[myprofile]:https://github.com/revolutionarybukhari
-[anaconda]:https://www.anaconda.com/
-[PowerBI]:https://powerbi.microsoft.com/en-us/
-[R]:https://www.r-project.org/
-[vscode]:https://code.visualstudio.com/
-[jupyter]:https://jupyter.org/
-[pycharm]:https://www.jetbrains.com/pycharm/
-[mediapipe]:https://google.github.io/mediapipe/
-[openCV]:https://opencv.org/
-[tensorflow]:https://www.tensorflow.org/
-[django]:https://www.djangoproject.com/
-[flask]:https://flask.palletsprojects.com/en/1.1.x/
-[git]:https://git-scm.com/
-[mongoDB]:https://www.mongodb.com/
-[nodejs]:https://nodejs.org/en/
-[js]:https://www.w3schools.com/js/DEFAULT.asp
-[react]:https://reactjs.org/
-[mysql]:https://www.mysql.com/
-[typescript]:https://www.typescriptlang.org/
-[notepad++]:https://notepad-plus-plus.org/
-[python]:https://www.python.org/
-[css]:https://www.w3schools.com/css/
-[html]:https://www.w3schools.com/html/
 [facebook]: https://www.facebook.com/HusnainHaiderBukhari/
 [instagram]: https://www.instagram.com/revolutionarybukhari/
 [twitter]: https://twitter.com/husnainhaider_
 [linkedin]: https://www.linkedin.com/in/syed-husnain-haider-a8318ab7/
+[myprofile]:https://github.com/revolutionarybukhari
