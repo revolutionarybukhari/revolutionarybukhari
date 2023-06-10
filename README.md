@@ -12,6 +12,7 @@
 
 🏆 People call me "REVOLUTIONARY BUKHARI" because of my groundbreaking approaches and out-of-the-box thinking. My goals for 2023? Contribute more to open-source projects, produce impactful research, and bring more revolutionary ideas to life.
 
+<br/>
 <hr/>
 
 ### 🚀 Tech I'm currently harnessing:
@@ -24,6 +25,8 @@
 - Generative AI
 - Statistical Analysis
 
+<br/>
+<hr/>
 ### ⚙ Tools I frequently use:
 
 - Python
@@ -37,6 +40,7 @@
 - PowerBI
 - Anaconda
 
+<br/>
 <hr/>
 
 ### 📞 Let's Connect and Forge the Future Together:
@@ -48,20 +52,26 @@
 
 [<img align="right" src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
 
+<br/>
+<hr/>
 ### 💾 Some Highlights of My Github Journey:
 
 🔥 Most used languages:
 <img align="center" alt="Husnain's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionarybukhari&&layout=compact&&theme=tokyonight" />
 
+<br/>
+<hr/>
 💼 Github Stats:
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=revolutionarybukhari&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 
+<br/>
 <hr/>
 
 In the words of Carl Sagan, "Somewhere, something incredible is waiting to be known." Let's discover it together. Thank you for stopping by, feel free to fork, star, and contribute to my projects. The future of tech starts here, with us!
 
 Syed Husnain Haider Bukhari
-
+<br/>
+<hr/>
 [facebook]: https://www.facebook.com/HusnainHaiderBukhari/
 [instagram]: https://www.instagram.com/revolutionarybukhari/
 [twitter]: https://twitter.com/husnainhaider_
