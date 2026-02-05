@@ -2,7 +2,7 @@
 ## Senior AI Engineer • Generative AI Specialist • Data Science Consultant • AI Automation Architect  
 📍 Islamabad, Pakistan | 🌍 Remote Worldwide | 🌐 husnainbukhari.com
 
-Hi — I’m Husnain.
+Hi I’m Husnain.
 
 I design, deploy, and scale **production-grade AI systems, LLM applications, and automation solutions** that help startups and enterprises move faster with data.
 
